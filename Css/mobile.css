@@ -30,6 +30,15 @@
     .center-desktop {
         display: none;
     }
+
+    .btnC{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin-top: 300px;
+    }
+
     .center-mobile {
         display: flex;
         justify-content: center;
